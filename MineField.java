@@ -1,10 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-// Name: Zeshi Yang
-// USC NetID:zeshiyan
-// CS 455 PA3
-// Spring 2020
+
 
 /**
  * MineField class with locations of mines for a game. This class is mutable,

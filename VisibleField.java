@@ -1,9 +1,6 @@
 import java.util.Arrays;
 
-// Name: Zeshi Yang
-// USC NetID: zeshiyan
-// CS 455 PA3
-// Spring 2020
+
 
 /**
  * VisibleField class This is the data that's being displayed at any one point
